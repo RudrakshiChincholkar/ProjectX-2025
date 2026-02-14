@@ -113,18 +113,57 @@ This is the list of projects completed in the 2025 programme.
 
 ***
 
-## Text to Handwritting
-### Description
+## Text to Handwriting
 
-### Output images
+### Description
+This project generates realistic handwritten text from typed input using a Conditional Generative Adversarial Network (CGAN).  
+Unlike traditional handwriting synthesis systems that require large datasets or fixed vocabularies, this model learns writer-specific style from a small set of handwriting samples (approximately 15 images per writer).
+
+A Content Encoder preserves textual correctness, while a Style Encoder captures unique handwriting characteristics. The Generator combines both representations to produce natural-looking handwritten word images.
+
+---
+
+### Output Images
+The system produces handwritten word images that reflect:
+- The provided input text  
+- Writer-specific stylistic features  
+- Natural handwriting variations  
+
+![alt text](images/image-1.png)
+
+![alt text](images/image-9.png)
+
+![alt text](images/image-10.png)
+
+![alt text](images/image-11.png)
+
+![alt text](images/image-12.png)
+
+---
 
 ### References
+- GANwriting: Content-Conditioned Generation of Styled Handwritten Word Images  
+- IAM Handwriting Word Database  
+- Deep Learning Specialization — DeepLearning.AI  
+- Kaggle Datasets  
 
-**Mentors:**
+---
 
-**Domains:**
+**Mentors:**  
+- [Kavya Rambhia](https://github.com/kavya-r30)
+- [VirajVora](https://github.com/viraj200524) 
+
+---
+
+**Domains:**  
+Computer Vision  
+Generative Adversarial Networks (GANs)  
+Deep Learning  
+Natural Language Processing  
+Text-to-Image Synthesis  
 
 ***
+
 
 ## EEG Analyser and Simulator
 ### Description
