@@ -17,34 +17,6 @@ Checkout our docs [here](https://sonu0305.github.io/MuseGAN-docs/)
 | **Tools** | [![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/doc) [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/docs) |
 | **Visualization & Analysis** | [![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white)](https://matplotlib.org/stable/contents.html) [![pretty_midi](https://img.shields.io/badge/pretty__midi-008080?style=for-the-badge)](https://craffel.github.io/pretty-midi/) [![pypianoroll](https://img.shields.io/badge/pypianoroll-FF69B4?style=for-the-badge)](https://pypianoroll.readthedocs.io/en/latest/) |
 
-## 📂 Folder Structure
-```
-│   README.md
-│
-├───Conditional_Track
-│   │   Musegan_Conditional_Track.ipynb
-│   │   README.md
-│   │
-│   └───Outputs
-│           Outputs-Epoch-25.wav
-│
-├───Version_1
-│   │   Musegan_Y.ipynb
-│   │   README.md
-│   │
-│   └───Outputs
-│           download (12).wav
-│           download (14).wav
-│
-└───Version_2
-    │   MuseGAN_Ver2.ipynb
-    │   README.md
-    │
-    └───Outputs
-            Epoch-120_Outputs.wav
-```
-
-
 ## 💃 Model Structure
 The whole MuseGAN model is primarily split into 2 parts - Multitrack and Temporal Models.
 
@@ -92,5 +64,6 @@ To access the output audio, check out the Audio folder under the version Folder
 ## 👏 Acknowledgement
 - Thanks to everyone at CoC and ProjectX for helping us in the progress of this project. 
 - Special shoutout to our mentors [Kavya Rambhia](https://github.com/kavya-r30) and [Swayam Shah](https://github.com/sonu0305) for their support and guidance throughout
+
 
 **Made By [Pratyush Rao](https://github.com/PratyushRao) and [Yashasvi Choudhary](https://github.com/Star-Light-9)**
