@@ -29,7 +29,7 @@ The described GAN-based Text-to-Handwriting project basically takes image of sam
 - The generator, built from residual blocks and upsampling layers, uses AdaIN (adaptive instance normalization) to adapt its output to reflect the extracted style while faithfully visualizing the text content. To convert text to handwriting ,we use a special generator called cGAN. The generator then generates synthetic or fake data which looks exactly like real one.
 - Three auxiliary networks-(1) a discriminator that judges realism, (2) a writer classifier that verifies author style, and (3) a text recognizer (often a CNN + RNN attention-based decoder)-evaluate the generator's output from different angles: appearance, style fidelity, and textual correctness.
 
-![alt text](images/image-8.png)
+![alt text](https://raw.github.com/hredayshah2507/Text-To-Handwriting/main/image-8.png)
 
 Architecture of proposed handwriting generation model
 
@@ -52,31 +52,31 @@ Architecture of proposed handwriting generation model
 
 - **Style Loss-**
 
-![alt text](images/image-7.png)
+![alt text](https://raw.github.com/hredayshah2507/Text-To-Handwriting/main/image-7.png)
 
 - **Generator Loss-**
 
-![alt text](images/image-6.png)
+![alt text](https://raw.github.com/hredayshah2507/Text-To-Handwriting/main/image-6.png)
 
 - **Discriminator Loss-**
 
-![alt text](images/image-5.png)
+![alt text](https://raw.github.com/hredayshah2507/Text-To-Handwriting/main/image-5.png)
 
 - **Recognizer Loss-**
 
-![alt text](images/image.png)
+![alt text](https://raw.github.com/hredayshah2507/Text-To-Handwriting/main/image.png)
 
 - **Output example-**
 
-![alt text](images/image-1.png)
+![alt text](https://raw.github.com/hredayshah2507/Text-To-Handwriting/main/image-1.png)
 
-![alt text](images/image-9.png)
+![alt text](https://raw.github.com/hredayshah2507/Text-To-Handwriting/main/image-9.png)
 
-![alt text](images/image-10.png)
+![alt text](https://raw.github.com/hredayshah2507/Text-To-Handwriting/main/image-10.png)
 
-![alt text](images/image-11.png)
+![alt text](https://raw.github.com/hredayshah2507/Text-To-Handwriting/main/image-11.png)
 
-![alt text](images/image-12.png)
+![alt text](https://raw.github.com/hredayshah2507/Text-To-Handwriting/main/image-12.png)
 
 ## **REQUIREMENTS-**
 

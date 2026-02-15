@@ -129,15 +129,15 @@ The system produces handwritten word images that reflect:
 - Writer-specific stylistic features  
 - Natural handwriting variations  
 
-![alt text](images/image-1.png)
+![alt text](https://raw.github.com/hredayshah2507/Text-To-Handwriting/main/image-1.png)
 
-![alt text](images/image-9.png)
+![alt text](https://raw.github.com/hredayshah2507/Text-To-Handwriting/main/image-9.png)
 
-![alt text](images/image-10.png)
+![alt text](https://raw.github.com/hredayshah2507/Text-To-Handwriting/main/image-10.png)
 
-![alt text](images/image-11.png)
+![alt text](https://raw.github.com/hredayshah2507/Text-To-Handwriting/main/image-11.png)
 
-![alt text](images/image-12.png)
+![alt text](https://raw.github.com/hredayshah2507/Text-To-Handwriting/main/image-12.png)
 
 ---
 
