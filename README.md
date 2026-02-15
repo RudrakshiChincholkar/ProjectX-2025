@@ -35,9 +35,12 @@ This is the list of projects completed in the 2025 programme.
 
 ***
 ## Train Your Foes
+### Description
 <p align="justify">
   <strong>Train Your Foes</strong> is a game where your greatest enemy is a machine that learns from you. Built in <strong>Unity 6</strong>, the game is split into two parts. First, you face <strong>The Gauntlet</strong>: four intense platforming levels that test your speed and precision. If you survive, you enter <strong>The Duel</strong>: a final boss fight that isn't scripted. Instead of following a set pattern, the boss uses <strong>Artificial Intelligence (Q-Learning)</strong> to study your health, energy, and moves. It chooses the best strategy to defeat you based on thousands of past battles, creating a unique challenge that feels alive and unpredictable.
 </p>
+
+### Output images
 <p align="center">
   <img width="512" height="447" alt="image" src="https://github.com/user-attachments/assets/386176d2-7cd4-4d94-80bb-2f7acb1e0ef4" />
   <img width="960" height="537" alt="image" src="https://github.com/user-attachments/assets/df901011-a56f-4277-806a-a0701131565a" />
@@ -59,12 +62,7 @@ $$Q(s, a) \leftarrow Q(s, a) + \alpha [R + \gamma \max_{a'} Q(s', a') - Q(s, a)]
   • <a href="https://github.com/Ishaan0132"><strong>Ishaan Shaikh</strong></a>
 </p>
 
-**Domains:**
-<p align="justify">
-  1. <strong>Game Development:</strong> 2D Physics, Precision Platforming, Turn-Based Combat Systems.<br>
-  2. <strong>Artificial Intelligence:</strong> Reinforcement Learning (Q-Learning), State-Space Discretization, Reward Shaping.<br>
-  3. <strong>Software Engineering:</strong> Object-Oriented Programming (C#), Data Persistence (Q-Table File I/O).
-</p>
+**Domains:** Game Development, Artificial Intelligence, Reinforcement Learning
 
 ***
 
