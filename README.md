@@ -163,7 +163,7 @@ The system produces handwritten word images that reflect:
 
 **Mentors:**  
 - [Kavya Rambhia](https://github.com/kavya-r30)
-- [VirajVora](https://github.com/viraj200524) 
+- [Viraj Vora](https://github.com/viraj200524) 
 
 **Domains:** Computer Vision, Generative Adversarial Networks (GANs), Natural Language Processing  
 
