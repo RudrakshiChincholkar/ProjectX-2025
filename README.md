@@ -194,6 +194,7 @@ The system predicts the desired label for EEG signal and also plots it.
 **Mentors:**
 - [Ghruank Kothare](https://github.com/Ghruank)
 - Afreen Kazi
+  
 **Domains:**
 Signal processing, Machine Learning, Deep Learning
 ***
