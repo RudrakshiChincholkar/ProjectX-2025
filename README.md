@@ -176,7 +176,9 @@ The system produces handwritten word images that reflect:
 The system leverages deep learning and signal processing to analyze, predict, and simulate neurological patterns — enabling early detection of epilepsy, cognitive stress, depression, and other brain-related conditions. The system also aims to classify emotions in awake and dream phase. Other implications include the prediction of failure and success of surgery and drug identification and simulation of its effects on EEG data.
 In addition, the project explores neural generative modeling to interpret REM-phase brain activity into abstract visual representations, pushing the boundaries of dream analysis and subconscious understanding.
 </p>
+
 ### Output images
+
 The system predicts the desired label for EEG signal and also plots it.
 
 ![alt_text](https://raw.githubusercontent.com/ajatshatru01/EEG-Analyser-and-simulator/main/EEG_Analyser/docs/output1.jpeg)
@@ -195,8 +197,8 @@ The system predicts the desired label for EEG signal and also plots it.
 - [Ghruank Kothare](https://github.com/Ghruank)
 - [Afreen Kazi](https://github.com/Afreen-Kazi-1)
   
-**Domains:**
-Signal processing, Machine Learning, Deep Learning
+**Domains:** Signal processing, Machine Learning, Deep Learning
+
 ***
 
 ## MuseGan
