@@ -117,7 +117,7 @@ $$Q(s, a) \leftarrow Q(s, a) + \alpha [R + \gamma \max_{a'} Q(s', a') - Q(s, a)]
 **Domains:**
 
 ***
-## Encrypted Chat Application - Cryptify
+## Encrypted Chat Application
 ### Description
 <p align="justify">
   <strong>Cryptify </strong> is a secure real-time messaging system built using <strong>Java Socket Programming</strong> and <strong>Spring Boot</strong>, designed to demonstrate low-level encrypted communication over TCP. The application implements <strong>Hybrid Cryptography</strong>, combining <strong>RSA (for secure key exchange)</strong> and <strong>AES (for fast symmetric message encryption)</strong> to ensure confidentiality and integrity. Messages are encrypted before transmission, securely exchanged over TCP sockets, and decrypted only by the intended recipient, ensuring that no plain-text data is exposed during communication.
