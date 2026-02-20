@@ -117,17 +117,35 @@ $$Q(s, a) \leftarrow Q(s, a) + \alpha [R + \gamma \max_{a'} Q(s', a') - Q(s, a)]
 **Domains:**
 
 ***
-
-## Encrypted Chat Application
+## Encrypted Chat Application - Cryptify
 ### Description
+<p align="justify">
+  <strong>Cryptify </strong> is a secure real-time messaging system built using <strong>Java Socket Programming</strong> and <strong>Spring Boot</strong>, designed to demonstrate low-level encrypted communication over TCP. The application implements <strong>Hybrid Cryptography</strong>, combining <strong>RSA (for secure key exchange)</strong> and <strong>AES (for fast symmetric message encryption)</strong> to ensure confidentiality and integrity. Messages are encrypted before transmission, securely exchanged over TCP sockets, and decrypted only by the intended recipient, ensuring that no plain-text data is exposed during communication.
+</p>
 
 ### Output images
+<p align="center">
+<img width="1851" height="1056" alt="image" src="https://github.com/user-attachments/assets/6cbdab2f-a3fa-4663-8933-f7162fb53e2a" />
+
+ <img width="1852" height="1056" alt="image" src="https://github.com/user-attachments/assets/3168380c-0a05-4e97-8fdd-ec26def10b46" />
 
 ### References
+<p align="justify">
+  1. <strong>Source Code:</strong> <a href="https://github.com/MohdHedayati/Encrypted-Chat-Application">GitHub Repository</a><br>
+2. <strong>Documentation:</strong> <a href="https://mohdhedayati.github.io/Encrypted-Chat-Application/">Project Documentation</a><br>
+3. <strong>Encryption Standard:</strong> RSA-2048 for key exchange<br>
+4. <strong>Symmetric Encryption:</strong> AES-256 (GCM mode recommended)<br>
+5. <strong>Transport Protocol:</strong> TCP Socket Programming in Java<br>
+6. <strong>Security Model:</strong> Hybrid Encryption (RSA + AES)
+</p>
 
 **Mentors:**
+<p align="justify">
+  • <a href="https://github.com/aitwehrrg"><strong>Rupak Gupta</strong></a><br>
+  • <a href="https://github.com/Tanish2207"><strong>Tanish Bhamare</strong></a>
+</p>
 
-**Domains:**
+**Domains:** Cybersecurity, Network Programming, Cryptography, Secure Communication
 
 ***
 
